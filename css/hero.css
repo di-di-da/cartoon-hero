@@ -37,6 +37,8 @@ main{
 main img{
     max-width: 100%;
     align-content: center;
+    display: block;
+    margin: auto;
 }
 
 h2{
